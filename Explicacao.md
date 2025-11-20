@@ -1,0 +1,9 @@
+Rotas Seguras em Bairros
+Fernando Mathias Ferro dos Santos - 10418683
+O problema é se transportar com segurança, por exemplo. Você está dirigindo em um lugar
+que não conhece, se possível você evitaria passar por ruas onde há pouca luz a noite, ou
+um lugar conhecido pela sua falta de segurança, com um grafo onde todas essas
+preocupações são levadas em conta e viajar se torna mais seguro.
+Promove a paz, ao evitar acidentes e outros perigos.
+Para que isso seja implementado a prefeitura do bairro iria precisar passar informações
+para a empresa dona do site que ele fosse mais eficaz.
